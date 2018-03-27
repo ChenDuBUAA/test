@@ -6,4 +6,7 @@ t：每组平行线之间的间隔
 l：针的长度
 
 ---
-$$ P(A\bigcupB)=P(A) + P(B) - P(A\bigcapB) $$
+$$ P(A \bigcup B)=P(A) + P(B) - P(A \bigcap B) $$
+---
+
+$$\int_0^1 {x^2} ,{\rm d}x$$

@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 def exam_du_2015_2_3(t, l):
     # t: distance between lines
-    # l：length of needle
+    # l: length of needle
     if t <= l or t <= 0 or l <= 0:
         return 0
 

@@ -7,8 +7,7 @@ l：针的长度<br>
 
 ![](https://github.com/ChenDuBUAA/test/blob/master/part1.jpg)
 
-[![part2]](https://github.com/ChenDuBUAA/test/blob/master/part2.jpg)<br>
-[part2]:https://github.com/ChenDuBUAA/test/blob/master/part2.jpg "part2"
+![](https://github.com/ChenDuBUAA/test/blob/master/part2.jpg)
 
 $$ P(A \bigcup B)=P(A) + P(B) - P(A \bigcap B) $$
 

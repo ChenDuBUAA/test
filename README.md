@@ -6,4 +6,4 @@ t：每组平行线之间的间隔
 l：针的长度
 
 ---
-$ P(AUB)=P(A) + P(B) - P(AB)
+$$ P(A\bigcupB)=P(A) + P(B) - P(A\bigcapB) $$

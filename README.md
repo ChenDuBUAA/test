@@ -8,7 +8,3 @@ l：针的长度<br>
 ![](https://github.com/ChenDuBUAA/test/blob/master/part1.jpg)
 
 ![](https://github.com/ChenDuBUAA/test/blob/master/part2.jpg)
-
-$$ P(A \bigcup B)=P(A) + P(B) - P(A \bigcap B) $$
-
-$$\int_0^1 {x^2} ,{\rm d}x$$
